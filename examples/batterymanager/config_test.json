@@ -3,10 +3,11 @@
   "devices": {
     "j7duo2": {}
   },
-  "repetitions": 2,
-  "apps": [
-    "com.android.chrome"
-  ],
+  "repetitions": 1,
+
+"apps": ["org.mozilla.fenix"],
+
+
   "duration": 10000,
   "profilers": {
     "batterymanager": {
