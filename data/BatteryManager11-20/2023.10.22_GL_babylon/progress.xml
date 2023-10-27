@@ -1,0 +1,57 @@
+<experiment>
+  <configHash>c4bb189c555d93f1cd67e8cc35a2eb2c</configHash>
+  <outputDir>/home/elliot/Desktop/android-runner/examples/batterymanager/output/2023.10.22_192814/</outputDir>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>j7duo2</device>
+      <path>org.mozilla.fenix</path>
+      <runCount>10</runCount>
+    </run>
+  </runsDone>
+</experiment>
